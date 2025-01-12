@@ -28,7 +28,7 @@ gsap.from('.page1-btn',{
 })
 
 gsap.to('#page1-img',{
-  y:890,
+  y:930,
   x:-100,
   duration:0.5,
   opacity:0.7,
@@ -135,13 +135,13 @@ const page31btn=document.querySelector('.page31-btn')
 
 
 page1btn1.addEventListener('click',()=>{
-  location.href='/shoping_app/shop.html'
+  location.href='shop.html'
 })
 
 page1btn2.addEventListener('click',() => {
-  location.href = '/shoping_app/shop.html'
+  location.href = 'shop.html'
 })
 
 page31btn.addEventListener('click', () => {
-  location.href = '/shoping_app/shop.html'
+  location.href = 'shop.html'
 })
