@@ -1,0 +1,302 @@
+*{padding: 0px;
+  margin:0px;}
+  
+.main{height:400vh;
+      width: 102vw;
+      border:1px solid black;
+      background-image:url("360_F_656939908_fkuZxhvg8hAIltZGpAIqQjqIwsu2oPrK.jpg");
+      background-size:cover;
+      overflow-x:hidden;
+}
+
+.page1{height:93vh;
+      width: 100vw;
+      border:2px solid transparent;
+
+      
+}
+.page1-i{display:flex;
+      margin:5vh 0vh 0vh 20vw;
+}
+.page1-i1{
+  height:5vw;
+  width:5vw;
+  border:2px solid transparent;
+  background-image:url("1000060648.png");
+      background-size:contain;
+  position:relative;
+  top:-0.5vh;
+}
+.page1-i>h1{font-size:1.1vh; 
+          font-family:sans-serif;
+          color:white;
+}
+#page1-text{
+      height:15vh;
+      width:75vw;
+      border:2px solid transparent;
+      margin:8vh 0vh 0vh 16vw;
+      
+}
+#page1-text>h1{
+  font-weight:200;
+  font-family:sans-serif;
+  color:white;
+  font-size:5vh;
+}
+#page1-text>h2{
+  font-weight: 700;
+  font-family: sans-serif;
+  font-size:6vh;
+  color:white;
+}
+.page1-btn{
+      height:5vh;
+      width:65vw;
+      display:flex;
+      justify-content:space-between;
+      align-items: center;
+      border:2px solid transparent;
+      margin:2vh 0vh 0vh 13vw;
+      
+      
+}
+.page1-btn1{
+  height:7vw;
+  width:24vw;
+  font-size:3.3vw;
+  border:0.01vh solid transparent;
+  font-family: sans-serif;
+  display:flex;
+  justify-content:center;
+  align-items: center;
+  border-radius:5vh;
+  font-weight: 900;
+  background-color:#E5E5E5;
+  color:black;
+}
+.page1-btn2 {
+  height: 7vw;
+  width: 24vw;
+  font-size: 3.3vw;
+  border: 0.01vh solid transparent;
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5vh;
+  font-weight:500;
+  background-color:black;
+  color:white;
+}
+#page1-img{height:90vw;
+           width:80vw;
+           border:0.0001px solid transparent;
+           margin:5vh 0vh 0vh 10vw;
+           border-radius:20% 2% 20% 2%;
+           transform:rotate(-7deg);
+           background-image:url("pair-headphones-with-word-headphones-bottom_403587-2309.jpg");
+           background-size:cover;
+           box-shadow:0px 0px 4vw 1vw #5D4984
+}
+
+
+.page2{height:80vh;
+      width: 100vw;
+      border:2px solid transparent;
+
+      
+    }
+.page21{height:60vh;
+        width:80vw;
+        border:2px solid transparent;
+        margin:10vh 0px 0px 10vw;
+}
+.page21-text{height:10vh;
+             width:80vw;
+             border:1px solid transparent;
+}
+.page21-text1{
+            font-family: sans-serif;
+            font-size: 7vw;
+            font-weight:200;
+            color:black;
+}
+.page21-text2 {
+           font-family: sans-serif;
+           font-size: 2vw;
+           font-weight: 400;
+           color: #D9D9D9;
+           margin-top:2vh;
+}
+.page21-img{height:50vh;
+             width:80vw;
+             border:1px solid transparent;
+             margin:5vh 0vh 0vh 0vh;
+             transform:scale(0.9);
+             border-radius:2% 20% 2% 20%;
+            background-image:url("photo-1691449808001-bb8c157f0094.jpeg");
+           background-size:cover;
+           box-shadow:0px 0px 4vw 1vw #C9C9C9
+}
+
+
+.page3{height:75vh;
+      width: 100vw;
+      border:2px solid transparent;
+      
+}
+.page31{height:75vh;
+        width:100vw;
+        border:1px solid transparent;
+}
+.page31>h1{
+  font-family: sans-serif;
+  font-size: 6vw;
+  font-weight: 600;
+  color: #F1F1F1;
+  margin-left:25vw;
+  
+}
+.page31-item{height:30vh;
+             width:98vw;
+             border:1px solid transparent;
+             margin-top:5vh;
+             
+}
+.page31-btn{height:4vh;
+            width:20vw;
+            border:1px solid transparent;
+            font-family: sans-serif;
+            font-size: 3.5vw;
+            font-weight: 600;
+            color:#6B4B2B;
+            display:flex;
+            justify-content:center;
+            align-items: center;
+            margin:4vh 0vh 0vh 40vw;
+            border-radius:50px;
+            background-color:#F5F5F5;
+}
+.page31-text{height:15vh;
+             width:80vw;
+             border:1px solid transparent;
+             margin:10vh 0vh 0vh 20vw;
+}
+.page31-text>h1{  font-family: sans-serif;
+  font-size: 6vw;
+  font-weight: 400;
+  color: #F1F1F1;}
+.page31-text>h4{  
+  font-family: sans-serif;
+  font-size: 3vw;
+  font-weight: 200;
+  color: #F1F1F1;
+  margin:1.5vh 0vh 3vh 0vh;
+}
+.page31-text>h5{  font-family: sans-serif;
+  font-size: 3vw;
+  font-weight: 200;
+  color: #F1F1F1;}
+  
+.page4{height:100vh;
+      width: 100vw;
+      border:2px solid transparent;
+
+      
+}
+.page4-text{height:30vh;
+       width:60vw;
+       border:1px solid transparent;
+       margin-left:20vw;
+}
+.page4-text>h1{
+  font-family: sans-serif;
+  font-size: 5vw;
+  font-weight: 400;
+  color: #F1F1F1;}
+.page4-text1{
+  margin-top:5vh;
+}
+.page4-text1>h2{  font-family: sans-serif;
+  font-size: 4vw;
+  font-weight:200;
+  color: #F1F1F1;}
+.page4-text2{
+  margin-top:5vh;
+}
+.page4-text2>h2{  
+  font-family: sans-serif;
+  font-size: 4vw;
+  font-weight:200;
+  color: #F1F1F1;}
+.page4-img{height:40vh;
+           width:80vw;
+           border:2px solid transparent;
+           margin:10vh 0vh 0vh 10vw;
+           border-radius:5% 50% 5% 10%;
+           background-image:url("Gold_-_Immersio.png");
+           background-size:contain;
+           
+}
+
+.page5{height:49vh;
+      width: 100vw;
+      border:1px solid transparent;
+
+      
+}
+.page51{height:22vh;
+        width:100vw;
+        border:2px solid transparent;
+          display:flex;
+  justify-content:center;
+  
+}
+.page511 {
+  height: 7vh;
+  width: 100vw;
+  border: 2px solid transparent;
+  font-family: sans-serif;
+  font-size: 7vw;
+  font-weight:500;
+  color: #F1F1F1;
+}
+.page512 {
+  height: 20vh;
+  width: 40vw;
+  border: 1px solid transparent;
+  font-family: sans-serif;
+  font-size: 4vw;
+  font-weight:200;
+  color: #F1F1F1;
+  margin: 0vh 2vh 0vh 0vh;
+}
+.page512>h1{  font-size: 6vw;
+  font-weight:400;
+  margin:0vh 0vh 3vh 0vh;
+}
+.page513 {
+  height: 20vh;
+  width: 40vw;
+  border: 2px solid transparent;
+  font-family: sans-serif;
+  font-size: 4vw;
+  font-weight:200;
+  color: #F1F1F1;
+}
+.page513>h1 {
+  font-size: 6vw;
+  font-weight: 400;
+  margin: 0vh 0vh 3vh 0vh;
+  
+}
+.page5>h1{
+  font-family: sans-serif;
+  font-size: 4vw;
+  font-weight:400;
+  color: #F1F1F1;
+  margin:5vh 0vh 0vh 25vw;
+}
+
+
